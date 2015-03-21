@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            A drop in the web
 locale:           en_US
-url:              
+url:              http://eddy-geek.github.io/
 
 
 # Jekyll configuration
@@ -26,22 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Edward O
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email: 
-  disqus-shortname: 
+  disqus-shortname: eddy-geek
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-61040698-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: eddy-geek
+  stackoverflow: eddygeek
   linkedin: #username
   xing: #username
   instagram: #username
