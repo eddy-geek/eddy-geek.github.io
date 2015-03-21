@@ -2,7 +2,7 @@
 
 title:            A drop in the web
 locale:           en_US
-url:              http://eddy-geek.github.io/
+url:              http://eddy-geek.github.io
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Edward O
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Nothing here yet."
   email: 
   disqus-shortname: eddy-geek
   twitter: #username
